@@ -1,4 +1,4 @@
 G
-I
-T
-B
+Ini Github
+Tulisan
+Bebas
